@@ -1,0 +1,17 @@
+
+
+.name {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.pic {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 400px;
+    width: auto;
+}
